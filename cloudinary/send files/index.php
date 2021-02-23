@@ -5,7 +5,7 @@ include_once "cloudinary/Uploader.php";
 
 include_once "cloudinary/Api.php";
 
-Cloudinary::config(array("cloud_name" => "dphb9swru", "api_key" => "581187213134998", "api_secret" => "O7eYGkw4-hLKtHlCCSxgCs4qFOk"));
+Cloudinary::config(array("cloud_name" => "", "api_key" => "", "api_secret" => ""));
 
 ?>
 
